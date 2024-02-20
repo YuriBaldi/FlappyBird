@@ -7,7 +7,6 @@ Before running the game, you need to install the Pygame library.
 1. Make sure you have Python installed on your system.
 2. Open the terminal and execute the following command to install Pygame:
 
-   '''bash
+   ```bash
    pip install pygame
-   python FlappyBird.py
-   '''
+   ```
