@@ -10,4 +10,4 @@ Before running the game, you need to install the Pygame library.
    '''bash
    pip install pygame
    python FlappyBird.py
-'''
+   '''
